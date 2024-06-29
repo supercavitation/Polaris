@@ -1,0 +1,9 @@
+{
+        "title": "Polaris Cup",
+        "cup": "polaris",
+        "cp": 1500,
+        "meta": "polaris",
+        "showCup": true,
+        "showFormat": true,
+        "showMeta": true
+    }
