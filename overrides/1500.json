@@ -105,6 +105,11 @@
     "weight": 1
   },
   {
+    "speciesId": "hydreigon",
+    "chargedMoves": ["BRUTAL_SWING","FLASH_CANNON"],
+    "weight": 1
+  },
+  {
     "speciesId": "lapras",
     "chargedMoves": ["SURF", "SKULL_BASH"],
     "weight": 6
